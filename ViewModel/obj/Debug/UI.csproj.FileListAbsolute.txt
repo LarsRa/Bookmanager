@@ -1,0 +1,11 @@
+E:\Dokumente\fh\5. Semester\awp\Labor07\Bookmanager074\ViewModel\bin\Debug\UI.dll
+E:\Dokumente\fh\5. Semester\awp\Labor07\Bookmanager074\ViewModel\bin\Debug\UI.pdb
+E:\Dokumente\fh\5. Semester\awp\Labor07\Bookmanager074\ViewModel\bin\Debug\Model.dll
+E:\Dokumente\fh\5. Semester\awp\Labor07\Bookmanager074\ViewModel\bin\Debug\ServiceBus.dll
+E:\Dokumente\fh\5. Semester\awp\Labor07\Bookmanager074\ViewModel\bin\Debug\Model.pdb
+E:\Dokumente\fh\5. Semester\awp\Labor07\Bookmanager074\ViewModel\bin\Debug\ServiceBus.pdb
+E:\Dokumente\fh\5. Semester\awp\Labor07\Bookmanager074\ViewModel\obj\Debug\UI.csprojAssemblyReference.cache
+E:\Dokumente\fh\5. Semester\awp\Labor07\Bookmanager074\ViewModel\obj\Debug\UI.csproj.CoreCompileInputs.cache
+E:\Dokumente\fh\5. Semester\awp\Labor07\Bookmanager074\ViewModel\obj\Debug\UI.csproj.CopyComplete
+E:\Dokumente\fh\5. Semester\awp\Labor07\Bookmanager074\ViewModel\obj\Debug\UI.dll
+E:\Dokumente\fh\5. Semester\awp\Labor07\Bookmanager074\ViewModel\obj\Debug\UI.pdb

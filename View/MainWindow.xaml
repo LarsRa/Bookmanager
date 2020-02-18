@@ -1,0 +1,112 @@
+﻿<Window x:Class="De.HsFlensburg.BookManager074.Ui.Desktop.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:De.HsFlensburg.BookManager074.Logic.UI;assembly=UI"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    
+    <!--Binding to the MainWindowViewModel and setting the key-->
+    <Window.Resources>
+        <local:MainWindowViewModel x:Key="mwvm"/>
+    </Window.Resources>
+    
+    <Grid>
+        <!--Definition of the menu in the top left corner-->
+        <Menu DockPanel.Dock="Top" Height="20" Width="50" VerticalAlignment="Top" HorizontalAlignment="Left">
+            <MenuItem Header="Datein">
+                <!--Menu item to create an instanz of NewBookWindow-->
+                <MenuItem Header="Neues Buch" InputGestureText="Strg + N" 
+                          Command="{Binding NewBook, Source={StaticResource mwvm}}"/>
+                
+                <!--Menu item to open the file dialog-->
+                <MenuItem Header="Öffnen" InputGestureText="Strg + O"
+                           Command="{Binding FileDialog, Source={StaticResource mwvm}}"/>
+                <Separator/>
+
+                <!--Menu item to shutdown the application-->
+                <MenuItem Header="Beenden" InputGestureText="Strg + B"
+                          Command="{Binding Shutdown, Source={StaticResource mwvm}}"/>
+            </MenuItem>
+        </Menu>
+
+        <UniformGrid Rows="1">
+            <!--Display the attributes of the chosen book on the left side of the mainwindow-->
+            <GroupBox Header="Ausgewähltes Buch" Margin="0,20">
+                <Grid>
+                    <!--Definition of the two columns-->
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="1*"/>
+                        <ColumnDefinition Width="2*"/>
+                    </Grid.ColumnDefinitions>
+                    <!--Definition of the five rows-->
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="30"/>
+                        <RowDefinition Height="30"/>
+                        <RowDefinition Height="30"/>
+                        <RowDefinition Height="30"/>
+                        <RowDefinition Height="30"/>
+                    </Grid.RowDefinitions>
+
+                    <!--Label and textbox for the title of the book-->
+                    <Label FontSize="12" Height="30" Grid.Row="0" Grid.Column="0" VerticalAlignment="Top">
+                        Titel:
+                    </Label>
+                    <TextBox Name="tbTitle" Grid.Row="0" Grid.Column="1" VerticalAlignment="Top" FontSize="12" 
+                             Height="30" DataContext="{Binding ElementName=BookList, Path=SelectedItem}" 
+                             Text="{Binding BookTitle}"/>
+
+                    <!--Label and textbox for the author of the book-->
+                    <Label FontSize="12" Height="30" Grid.Row="1" Grid.Column="0" VerticalAlignment="Top">
+                        Autor:
+                    </Label>
+                    <TextBox Name="tbAuthor" Grid.Row="1" Grid.Column="1" VerticalAlignment="Top" FontSize="12" 
+                             Height="30" DataContext="{Binding ElementName=BookList, Path=SelectedItem}" 
+                             Text="{Binding BookAuthor}"/>
+
+                    <!--Label and textbox for the publishing year of the book-->
+                    <Label FontSize="12" Height="30" Grid.Row="2" Grid.Column="0" VerticalAlignment="Top">
+                        Erscheinungsjahr:
+                    </Label>
+                    <TextBox Name="tbPubyear" Grid.Row="2" Grid.Column="1" VerticalAlignment="Top" FontSize="12" 
+                             Height="30" DataContext="{Binding ElementName=BookList, Path=SelectedItem}" 
+                             Text="{Binding BookPubyear}"/>
+
+                    <!--Label and textbox for the edition of the book-->
+                    <Label FontSize="12" Height="30" Grid.Row="3" Grid.Column="0" VerticalAlignment="Top">
+                        Auflage:
+                    </Label>
+                    <TextBox Name="tbEdition" Grid.Row="3" Grid.Column="1" VerticalAlignment="Top" FontSize="12" 
+                             Height="30" DataContext="{Binding ElementName=BookList, Path=SelectedItem}" 
+                             Text="{Binding BookEdition}" />
+
+                    <!--Label and textbox for the availability of the book-->
+                    <Label FontSize="12" Height="30" Grid.Row="4" Grid.Column="0" VerticalAlignment="Top">
+                        Verfügbar:
+                    </Label>
+                    <TextBox Name="tbAvailable" Grid.Row="4" Grid.Column="1" VerticalAlignment="Top" FontSize="12" 
+                             Height="30" DataContext="{Binding ElementName=BookList, Path=SelectedItem}" 
+                             Text="{Binding BookAvailable}"/>
+
+                </Grid>
+            </GroupBox>
+
+            <!-- Display the saved books in a datagrid on the right side of the mainwindow-->
+            <GroupBox Header="Alle Bücher" Margin="0,20">
+                <!--Binding the datagrid to the wrapped collection of books in MainWindowViewModel-->
+                <DataGrid x:Name="BookList" AutoGenerateColumns="False"
+                          ItemsSource="{Binding MyWrappedBookCollection, Source={StaticResource mwvm}}">
+                    <!--Bindings to the attributes of the books-->
+                    <DataGrid.Columns>
+                        <DataGridTextColumn Header="Titel" Binding="{Binding BookTitle}"  />
+                        <DataGridTextColumn Header="Autor" Binding="{Binding BookAuthor}" />
+                        <DataGridTextColumn Header="Erscheinungsjahr" Binding="{Binding BookPubyear}" />
+                        <DataGridTextColumn Header="Auflage" Binding="{Binding BookEdition}"  />
+                        <DataGridTextColumn Header="Verfügbarkeit" Binding="{Binding BookAvailable}" />
+                    </DataGrid.Columns>
+                </DataGrid>
+            </GroupBox>
+        </UniformGrid>
+    </Grid>
+</Window>

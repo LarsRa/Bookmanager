@@ -1,0 +1,6 @@
+E:\Dokumente\fh\5. Semester\awp\Labor07\Bookmanager074\ServiceBus\bin\Debug\ServiceBus.dll
+E:\Dokumente\fh\5. Semester\awp\Labor07\Bookmanager074\ServiceBus\bin\Debug\ServiceBus.pdb
+E:\Dokumente\fh\5. Semester\awp\Labor07\Bookmanager074\ServiceBus\obj\Debug\ServiceBus.csprojAssemblyReference.cache
+E:\Dokumente\fh\5. Semester\awp\Labor07\Bookmanager074\ServiceBus\obj\Debug\ServiceBus.csproj.CoreCompileInputs.cache
+E:\Dokumente\fh\5. Semester\awp\Labor07\Bookmanager074\ServiceBus\obj\Debug\ServiceBus.dll
+E:\Dokumente\fh\5. Semester\awp\Labor07\Bookmanager074\ServiceBus\obj\Debug\ServiceBus.pdb

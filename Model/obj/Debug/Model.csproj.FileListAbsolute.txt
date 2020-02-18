@@ -1,0 +1,23 @@
+E:\Dokumente\fh\5. Semester\awp\neuesProjekt\Bookmanager074\Model\bin\Debug\Model.dll
+E:\Dokumente\fh\5. Semester\awp\neuesProjekt\Bookmanager074\Model\bin\Debug\Model.pdb
+E:\Dokumente\fh\5. Semester\awp\neuesProjekt\Bookmanager074\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+E:\Dokumente\fh\5. Semester\awp\neuesProjekt\Bookmanager074\Model\obj\Debug\Model.dll
+E:\Dokumente\fh\5. Semester\awp\neuesProjekt\Bookmanager074\Model\obj\Debug\Model.pdb
+U:\private\sem5\awp\neu\labor05\Bookmanager074\Model\bin\Debug\Model.dll
+U:\private\sem5\awp\neu\labor05\Bookmanager074\Model\bin\Debug\Model.pdb
+U:\private\sem5\awp\neu\labor05\Bookmanager074\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+U:\private\sem5\awp\neu\labor05\Bookmanager074\Model\obj\Debug\Model.dll
+U:\private\sem5\awp\neu\labor05\Bookmanager074\Model\obj\Debug\Model.pdb
+U:\private\sem5\awp\neu\labor05\Bookmanager074\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+U:\private\sem5\awp\neu\Labor06\Bookmanager074\Model\bin\Debug\Model.dll
+U:\private\sem5\awp\neu\Labor06\Bookmanager074\Model\bin\Debug\Model.pdb
+U:\private\sem5\awp\neu\Labor06\Bookmanager074\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+U:\private\sem5\awp\neu\Labor06\Bookmanager074\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+U:\private\sem5\awp\neu\Labor06\Bookmanager074\Model\obj\Debug\Model.dll
+U:\private\sem5\awp\neu\Labor06\Bookmanager074\Model\obj\Debug\Model.pdb
+E:\Dokumente\fh\5. Semester\awp\Labor07\Bookmanager074\Model\bin\Debug\Model.dll
+E:\Dokumente\fh\5. Semester\awp\Labor07\Bookmanager074\Model\bin\Debug\Model.pdb
+E:\Dokumente\fh\5. Semester\awp\Labor07\Bookmanager074\Model\obj\Debug\Model.csprojAssemblyReference.cache
+E:\Dokumente\fh\5. Semester\awp\Labor07\Bookmanager074\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+E:\Dokumente\fh\5. Semester\awp\Labor07\Bookmanager074\Model\obj\Debug\Model.dll
+E:\Dokumente\fh\5. Semester\awp\Labor07\Bookmanager074\Model\obj\Debug\Model.pdb

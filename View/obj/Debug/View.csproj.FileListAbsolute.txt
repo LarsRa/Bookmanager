@@ -1,0 +1,97 @@
+E:\Dokumente\fh\5. Semester\awp\neuesProjekt\Bookmanager074\View\obj\Debug\View.csprojAssemblyReference.cache
+E:\Dokumente\fh\5. Semester\awp\neuesProjekt\Bookmanager074\View\obj\Debug\MainWindow.baml
+E:\Dokumente\fh\5. Semester\awp\neuesProjekt\Bookmanager074\View\obj\Debug\MainWindow.g.cs
+E:\Dokumente\fh\5. Semester\awp\neuesProjekt\Bookmanager074\View\obj\Debug\App.g.cs
+E:\Dokumente\fh\5. Semester\awp\neuesProjekt\Bookmanager074\View\obj\Debug\View_MarkupCompile.cache
+E:\Dokumente\fh\5. Semester\awp\neuesProjekt\Bookmanager074\View\obj\Debug\View.g.resources
+E:\Dokumente\fh\5. Semester\awp\neuesProjekt\Bookmanager074\View\obj\Debug\De.HsFlensburg.BookManager074.Ui.View.Properties.Resources.resources
+E:\Dokumente\fh\5. Semester\awp\neuesProjekt\Bookmanager074\View\obj\Debug\View.csproj.GenerateResource.cache
+E:\Dokumente\fh\5. Semester\awp\neuesProjekt\Bookmanager074\View\obj\Debug\View.csproj.CoreCompileInputs.cache
+E:\Dokumente\fh\5. Semester\awp\neuesProjekt\Bookmanager074\View\bin\Debug\View.exe.config
+E:\Dokumente\fh\5. Semester\awp\neuesProjekt\Bookmanager074\View\bin\Debug\View.exe
+E:\Dokumente\fh\5. Semester\awp\neuesProjekt\Bookmanager074\View\bin\Debug\View.pdb
+E:\Dokumente\fh\5. Semester\awp\neuesProjekt\Bookmanager074\View\bin\Debug\Model.dll
+E:\Dokumente\fh\5. Semester\awp\neuesProjekt\Bookmanager074\View\bin\Debug\Model.pdb
+E:\Dokumente\fh\5. Semester\awp\neuesProjekt\Bookmanager074\View\obj\Debug\View.csproj.CopyComplete
+E:\Dokumente\fh\5. Semester\awp\neuesProjekt\Bookmanager074\View\obj\Debug\View.exe
+E:\Dokumente\fh\5. Semester\awp\neuesProjekt\Bookmanager074\View\obj\Debug\View.pdb
+E:\Dokumente\fh\5. Semester\awp\labor04\Bookmanager074\View\bin\Debug\View.exe.config
+E:\Dokumente\fh\5. Semester\awp\labor04\Bookmanager074\View\bin\Debug\View.exe
+E:\Dokumente\fh\5. Semester\awp\labor04\Bookmanager074\View\bin\Debug\View.pdb
+E:\Dokumente\fh\5. Semester\awp\labor04\Bookmanager074\View\bin\Debug\Model.dll
+E:\Dokumente\fh\5. Semester\awp\labor04\Bookmanager074\View\bin\Debug\ViewModel.dll
+E:\Dokumente\fh\5. Semester\awp\labor04\Bookmanager074\View\bin\Debug\Model.pdb
+E:\Dokumente\fh\5. Semester\awp\labor04\Bookmanager074\View\bin\Debug\ViewModel.pdb
+E:\Dokumente\fh\5. Semester\awp\labor04\Bookmanager074\View\obj\Debug\View.csprojAssemblyReference.cache
+E:\Dokumente\fh\5. Semester\awp\labor04\Bookmanager074\View\obj\Debug\MainWindow.baml
+E:\Dokumente\fh\5. Semester\awp\labor04\Bookmanager074\View\obj\Debug\MainWindow.g.cs
+E:\Dokumente\fh\5. Semester\awp\labor04\Bookmanager074\View\obj\Debug\App.g.cs
+E:\Dokumente\fh\5. Semester\awp\labor04\Bookmanager074\View\obj\Debug\View_MarkupCompile.cache
+E:\Dokumente\fh\5. Semester\awp\labor04\Bookmanager074\View\obj\Debug\View.g.resources
+E:\Dokumente\fh\5. Semester\awp\labor04\Bookmanager074\View\obj\Debug\De.HsFlensburg.BookManager074.Ui.View.Properties.Resources.resources
+E:\Dokumente\fh\5. Semester\awp\labor04\Bookmanager074\View\obj\Debug\View.csproj.GenerateResource.cache
+E:\Dokumente\fh\5. Semester\awp\labor04\Bookmanager074\View\obj\Debug\View.csproj.CoreCompileInputs.cache
+E:\Dokumente\fh\5. Semester\awp\labor04\Bookmanager074\View\obj\Debug\View.csproj.CopyComplete
+E:\Dokumente\fh\5. Semester\awp\labor04\Bookmanager074\View\obj\Debug\View.exe
+E:\Dokumente\fh\5. Semester\awp\labor04\Bookmanager074\View\obj\Debug\View.pdb
+U:\private\sem5\awp\neu\labor05\Bookmanager074\View\bin\Debug\View.exe.config
+U:\private\sem5\awp\neu\labor05\Bookmanager074\View\bin\Debug\View.exe
+U:\private\sem5\awp\neu\labor05\Bookmanager074\View\bin\Debug\View.pdb
+U:\private\sem5\awp\neu\labor05\Bookmanager074\View\bin\Debug\Model.dll
+U:\private\sem5\awp\neu\labor05\Bookmanager074\View\bin\Debug\ViewModel.dll
+U:\private\sem5\awp\neu\labor05\Bookmanager074\View\bin\Debug\Model.pdb
+U:\private\sem5\awp\neu\labor05\Bookmanager074\View\bin\Debug\ViewModel.pdb
+U:\private\sem5\awp\neu\labor05\Bookmanager074\View\obj\Debug\View.csprojResolveAssemblyReference.cache
+U:\private\sem5\awp\neu\labor05\Bookmanager074\View\obj\Debug\MainWindow.baml
+U:\private\sem5\awp\neu\labor05\Bookmanager074\View\obj\Debug\MainWindow.g.cs
+U:\private\sem5\awp\neu\labor05\Bookmanager074\View\obj\Debug\App.g.cs
+U:\private\sem5\awp\neu\labor05\Bookmanager074\View\obj\Debug\View_MarkupCompile.cache
+U:\private\sem5\awp\neu\labor05\Bookmanager074\View\obj\Debug\View.g.resources
+U:\private\sem5\awp\neu\labor05\Bookmanager074\View\obj\Debug\De.HsFlensburg.BookManager074.Ui.View.Properties.Resources.resources
+U:\private\sem5\awp\neu\labor05\Bookmanager074\View\obj\Debug\View.csproj.GenerateResource.Cache
+U:\private\sem5\awp\neu\labor05\Bookmanager074\View\obj\Debug\View.csproj.CoreCompileInputs.cache
+U:\private\sem5\awp\neu\labor05\Bookmanager074\View\obj\Debug\View.exe
+U:\private\sem5\awp\neu\labor05\Bookmanager074\View\obj\Debug\View.pdb
+U:\private\sem5\awp\neu\Labor06\Bookmanager074\View\bin\Debug\View.exe.config
+U:\private\sem5\awp\neu\Labor06\Bookmanager074\View\bin\Debug\View.exe
+U:\private\sem5\awp\neu\Labor06\Bookmanager074\View\bin\Debug\View.pdb
+U:\private\sem5\awp\neu\Labor06\Bookmanager074\View\bin\Debug\Model.dll
+U:\private\sem5\awp\neu\Labor06\Bookmanager074\View\bin\Debug\ViewModel.dll
+U:\private\sem5\awp\neu\Labor06\Bookmanager074\View\bin\Debug\Model.pdb
+U:\private\sem5\awp\neu\Labor06\Bookmanager074\View\bin\Debug\ViewModel.pdb
+U:\private\sem5\awp\neu\Labor06\Bookmanager074\View\obj\Debug\View.csprojResolveAssemblyReference.cache
+U:\private\sem5\awp\neu\Labor06\Bookmanager074\View\obj\Debug\MainWindow.baml
+U:\private\sem5\awp\neu\Labor06\Bookmanager074\View\obj\Debug\MainWindow.g.cs
+U:\private\sem5\awp\neu\Labor06\Bookmanager074\View\obj\Debug\App.g.cs
+U:\private\sem5\awp\neu\Labor06\Bookmanager074\View\obj\Debug\View_MarkupCompile.cache
+U:\private\sem5\awp\neu\Labor06\Bookmanager074\View\obj\Debug\View.g.resources
+U:\private\sem5\awp\neu\Labor06\Bookmanager074\View\obj\Debug\De.HsFlensburg.BookManager074.Ui.View.Properties.Resources.resources
+U:\private\sem5\awp\neu\Labor06\Bookmanager074\View\obj\Debug\View.csproj.GenerateResource.Cache
+U:\private\sem5\awp\neu\Labor06\Bookmanager074\View\obj\Debug\View.csproj.CoreCompileInputs.cache
+U:\private\sem5\awp\neu\Labor06\Bookmanager074\View\obj\Debug\View.exe
+U:\private\sem5\awp\neu\Labor06\Bookmanager074\View\obj\Debug\View.pdb
+U:\private\sem5\awp\neu\Labor06\Bookmanager074\View\obj\Debug\NewBookWindow.g.cs
+U:\private\sem5\awp\neu\Labor06\Bookmanager074\View\obj\Debug\View_MarkupCompile.lref
+U:\private\sem5\awp\neu\Labor06\Bookmanager074\View\obj\Debug\NewBookWindow.baml
+E:\Dokumente\fh\5. Semester\awp\Labor07\Bookmanager074\View\bin\Debug\View.exe.config
+E:\Dokumente\fh\5. Semester\awp\Labor07\Bookmanager074\View\bin\Debug\View.exe
+E:\Dokumente\fh\5. Semester\awp\Labor07\Bookmanager074\View\bin\Debug\View.pdb
+E:\Dokumente\fh\5. Semester\awp\Labor07\Bookmanager074\View\bin\Debug\Model.dll
+E:\Dokumente\fh\5. Semester\awp\Labor07\Bookmanager074\View\bin\Debug\ViewModel.dll
+E:\Dokumente\fh\5. Semester\awp\Labor07\Bookmanager074\View\bin\Debug\Model.pdb
+E:\Dokumente\fh\5. Semester\awp\Labor07\Bookmanager074\View\bin\Debug\ViewModel.pdb
+E:\Dokumente\fh\5. Semester\awp\Labor07\Bookmanager074\View\obj\Debug\View.csprojAssemblyReference.cache
+E:\Dokumente\fh\5. Semester\awp\Labor07\Bookmanager074\View\obj\Debug\MainWindow.baml
+E:\Dokumente\fh\5. Semester\awp\Labor07\Bookmanager074\View\obj\Debug\MainWindow.g.cs
+E:\Dokumente\fh\5. Semester\awp\Labor07\Bookmanager074\View\obj\Debug\NewBookWindow.g.cs
+E:\Dokumente\fh\5. Semester\awp\Labor07\Bookmanager074\View\obj\Debug\App.g.cs
+E:\Dokumente\fh\5. Semester\awp\Labor07\Bookmanager074\View\obj\Debug\View_MarkupCompile.cache
+E:\Dokumente\fh\5. Semester\awp\Labor07\Bookmanager074\View\obj\Debug\View_MarkupCompile.lref
+E:\Dokumente\fh\5. Semester\awp\Labor07\Bookmanager074\View\obj\Debug\NewBookWindow.baml
+E:\Dokumente\fh\5. Semester\awp\Labor07\Bookmanager074\View\obj\Debug\View.g.resources
+E:\Dokumente\fh\5. Semester\awp\Labor07\Bookmanager074\View\obj\Debug\De.HsFlensburg.BookManager074.Ui.View.Properties.Resources.resources
+E:\Dokumente\fh\5. Semester\awp\Labor07\Bookmanager074\View\obj\Debug\View.csproj.GenerateResource.cache
+E:\Dokumente\fh\5. Semester\awp\Labor07\Bookmanager074\View\obj\Debug\View.csproj.CoreCompileInputs.cache
+E:\Dokumente\fh\5. Semester\awp\Labor07\Bookmanager074\View\obj\Debug\View.csproj.CopyComplete
+E:\Dokumente\fh\5. Semester\awp\Labor07\Bookmanager074\View\obj\Debug\View.exe
+E:\Dokumente\fh\5. Semester\awp\Labor07\Bookmanager074\View\obj\Debug\View.pdb
